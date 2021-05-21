@@ -37,7 +37,7 @@ class Priority extends StatelessWidget {
                         leading: CircleAvatar(
                           radius: 25.0,
                           backgroundImage:
-                              AssetImage("assets/images/xperia.jpg"),
+                              AssetImage("assets/images/michaela-baum-unsplash.jpg"),
                         ),
                         title:  Card(
                             shadowColor: Colors.transparent,
@@ -125,7 +125,7 @@ class Priority extends StatelessWidget {
               onTap: () {},
               leading: CircleAvatar(
                 radius: 25.0,
-                backgroundImage: AssetImage("assets/images/xperia.jpg"),
+                backgroundImage: AssetImage("assets/images/michaela-baum-unsplash.jpg"),
               ),
               title: Text(
                 'Twitter',
@@ -178,7 +178,7 @@ class Priority extends StatelessWidget {
               onTap: () {},
               leading: CircleAvatar(
                 radius: 25.0,
-                backgroundImage: AssetImage("assets/images/xperia.jpg"),
+                backgroundImage: AssetImage("assets/images/michaela-baum-unsplash.jpg"),
               ),
               title: Text(
                 'Twitter',
@@ -234,7 +234,7 @@ class Priority extends StatelessWidget {
               leading: CircleAvatar(
                 radius: 25.0,
                 backgroundColor: Colors.deepPurpleAccent,
-                backgroundImage: AssetImage("assets/images/xperia.jpg"),
+                backgroundImage: AssetImage("assets/images/michaela-baum-unsplash.jpg"),
               ),
               title: Text(
                 'Twitter',

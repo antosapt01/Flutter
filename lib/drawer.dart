@@ -31,7 +31,7 @@ class Maindrawer extends StatelessWidget {
                   child: DrawerHeader(
                     decoration: BoxDecoration(
                       image: DecorationImage(
-                        image: AssetImage("assets/images/Blue-Squares.jpg"),
+                        image: AssetImage("assets/images/elliott-engelmann-unsplash.jpg"),
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -44,7 +44,7 @@ class Maindrawer extends StatelessWidget {
                             radius: 40.0,
                             backgroundColor: Colors.grey,
                             backgroundImage:
-                                AssetImage("assets/images/batman.png"),
+                                AssetImage("assets/images/matheus-queiroz-unsplash.jpg"),
                           ),
                           SizedBox(
                             height: 20,
@@ -66,7 +66,7 @@ class Maindrawer extends StatelessWidget {
                                             color: Colors.white),
                                       ),
                                       Text(
-                                        'Software Developer',
+                                        'Simple Ui_Clone Gmail',
                                         style: TextStyle(
                                             fontSize: 13, color: Colors.white),
                                       ),

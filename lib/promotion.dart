@@ -37,7 +37,8 @@ class Promotion extends StatelessWidget {
                         leading: CircleAvatar(
                           radius: 25.0,
                           backgroundImage:
-                              AssetImage("assets/images/xperia.jpg"),
+                              AssetImage("assets/images/ben-libby-unsplash.jpg"),
+                              
                         ),
                         title:  Card(
                             shadowColor: Colors.transparent,
@@ -134,7 +135,7 @@ class Promotion extends StatelessWidget {
               onTap: () {},
               leading: CircleAvatar(
                 radius: 25.0,
-                backgroundImage: AssetImage("assets/images/xperia.jpg"),
+                backgroundImage: AssetImage("assets/images/ben-libby-unsplash.jpg"),
               ),
               title: Text(
                 'Google News',
@@ -187,7 +188,7 @@ class Promotion extends StatelessWidget {
               onTap: () {},
               leading: CircleAvatar(
                 radius: 25.0,
-                backgroundImage: AssetImage("assets/images/xperia.jpg"),
+                backgroundImage: AssetImage("assets/images/ben-libby-unsplash.jpg"),
               ),
               title: Text(
                 'Google News',
@@ -241,7 +242,7 @@ class Promotion extends StatelessWidget {
               leading: CircleAvatar(
                 radius: 25.0,
                 backgroundColor: Colors.deepPurpleAccent,
-                backgroundImage: AssetImage("assets/images/xperia.jpg"),
+                backgroundImage: AssetImage("assets/images/ben-libby-unsplash.jpg"),
               ),
               title: Text(
                 'Google News',

@@ -45,10 +45,11 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-      - assets/images/batman.png
-      - assets/images/blue.jpg
-      - assets/images/xperia.jpg
-      - assets/images/Blue-Squares.jpg
+      - assets/images/matheus-queiroz-unsplash.jpg
+      - assets/images/alex-shutin-unsplash.jpg
+      - assets/images/ben-libby-unsplash.jpg
+      - assets/images/michaela-baum-unsplash.jpg
+      - assets/images/elliott-engelmann-unsplash.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
